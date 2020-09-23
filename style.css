@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#welcome{
+    width: 100%;
+}
+#apps{
+    width: 100%;
+}
+#games{
+    width: 100%;
+}
+#art{
+    width: 100%;
+}
+#bot{
+    width: 100%;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
